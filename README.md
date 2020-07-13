@@ -5,7 +5,6 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1" >
 	<title>Homework Module 2</title>
-	
 </head>
 <body>
 	<h1>Our Menu</h1>
