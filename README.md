@@ -9,7 +9,6 @@
 </head>
 <body>
 	<h1>Our Menu</h1>
-
 	<div class="container">
 		<div class="long4 medium6 small12">
 			<div class="section">
@@ -17,14 +16,12 @@
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis explicabo ad eos culpa veritatis quam praesentium ratione id ut amet nam saepe odio obcaecati sint commodi, optio, illo nostrum vitae. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quisquam ipsa esse temporibus. Cupiditate ipsa modi, nemo tempora dolorem, perferendis autem, illum quidem vitae quod fuga deleniti. Molestias, culpa molestiae.</p>
 			</div>				
 		</div>
-		
 		<div class="long4 medium6 small12">
 			<div class="section">
 				<span id="number2">Beef</span>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis explicabo ad eos culpa veritatis quam praesentium ratione id ut amet nam saepe odio obcaecati sint commodi, optio, illo nostrum vitae. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt saepe error, id nam explicabo reiciendis, animi obcaecati quod, hic libero sint voluptatibus tempore quas dolorum sapiente beatae similique voluptate! Debitis.</p>
 			</div>				
 		</div>
-
 		<div class="long4 medium666 small12">
 			<div class="section">
 				<span id="number3">Sushi</span>
@@ -32,8 +29,5 @@
 			</div>				
 		</div>
 	</div>
-
-
-
 </body>
 </html>
